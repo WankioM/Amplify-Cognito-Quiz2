@@ -38,7 +38,6 @@ Note: The Amplify deploy is not live after September 18, 2024, due to cost consi
 3. **Add authentication**
 
     ```bash
-    Copy code
     amplify add auth
 
 3. **Deploy your Amplify configuration**
